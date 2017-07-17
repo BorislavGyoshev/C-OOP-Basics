@@ -1,6 +1,0 @@
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\bin\Debug\P1_DefineBankAccountClass.exe.config
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\bin\Debug\P1_DefineBankAccountClass.exe
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\bin\Debug\P1_DefineBankAccountClass.pdb
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\obj\Debug\P1_DefineBankAccountClass.exe
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\obj\Debug\P1_DefineBankAccountClass.pdb
-D:\C# OOP\DefiningClassesLab\DefiningClasses\P1_DefineBankAccountClass\obj\Debug\P1_DefineBankAccountClass.csprojResolveAssemblyReference.cache
